@@ -1,4 +1,3 @@
-import profile from '../assets/images/profile.jpg'
 import ComputerIcon from '@mui/icons-material/Computer';
 import StorageIcon from '@mui/icons-material/Storage';
 import HomeRepairServiceIcon from '@mui/icons-material/HomeRepairService';
@@ -8,7 +7,7 @@ export default function About() {
         <div className="min-h-screen mx-auto bg-blue-900 text-white">
             <div className="flex flex-col lg:flex-row gap-6 justify-center items-center p-12">
                 <div className="flex justify-center w-1/3 content-center">
-                    <img src={profile} alt="" 
+                    <img src="profile.jpg" alt="" 
                     className="rounded-full"/>
                 </div>
                 <div className="w-2/3 lg:w-1/3">
