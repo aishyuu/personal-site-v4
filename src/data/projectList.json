@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Job Matcher",
+        "description": "Used ChatGPT3 API to give users a list of jobs their resume is the best fit for! Built with NextJS and TailwindCSS.",
+        "image": "projects/job_matcher.png",
+        "live": "https://job-matcher-theta.vercel.app/",
+        "github": "https://github.com/aishyuu/job-matcher"
+    },
+    {
+        "id": 2,
+        "name": "Shopping Cart",
+        "description": "E-Commerce Page for all your headphone needs! Built with React and TypeScript.",
+        "image": "projects/store_page.png",
+        "live": "https://aishyuu.github.io/store",
+        "github": "https://github.com/aishyuu/shopping-cart-ts"
+    },
+    {
+        "id": 3,
+        "name": "Project Brisket",
+        "description": "Displays comprehensive data of a fighting game character with interactive frame by frame move showcases! Built in React!",
+        "image": "projects/brisket.png",
+        "live": "https://aishyuu.github.io/project-brisket/",
+        "github": "https://github.com/aishyuu/project-brisket"
+    },
+    {
+        "id": 4,
+        "name": "Etch-A-Sketch",
+        "description": "Website that simulates the Etch A Sketch drawing toy. Complete with changable canvas size and color randomizer. Built in Vanilla JavaScript.",
+        "image": "projects/etch-a-sketch.png",
+        "live": "https://aishyuu.github.io/Etch-A-Sketch/",
+        "github": "https://github.com/aishyuu/Etch-A-Sketch"
+    }
+]
