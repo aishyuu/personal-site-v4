@@ -20,7 +20,7 @@ export default function Projects() {
                                 <p>{project.description}</p>
                             </div>
                             <div className="flex gap-4 p-4">
-                                <a href="" target="_blank"
+                                <a href={project.live} target="_blank"
                                 className="px-3 py-1 bg-blue-500 rounded-lg hover:bg-blue-800">
                                     Live Demo
                                 </a>
