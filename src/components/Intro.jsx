@@ -1,6 +1,4 @@
 import { TypeAnimation } from "react-type-animation"
-import GithubIcon from '@mui/icons-material/Github'
-import LinkedInIcon from '@mui/icons-material/LinkedIn'
 
 export default function Intro() {
     return(
@@ -27,11 +25,11 @@ export default function Intro() {
             <div className="flex gap-4">
                 <a href="https://github.com/aishyuu" target="_blank" 
                 className="flex gap-2 px-4 py-2 border border-blue-500 bg-blue-500 rounded-lg hover:bg-blue-400">
-                    <GithubIcon /> Github
+                    Github
                 </a>
                 <a href="https://www.linkedin.com/in/ivan-matias-1331im/" target="_blank"
                 className="flex gap-2 px-4 py-2 border border-blue-500 bg-blue-500 rounded-lg hover:bg-blue-400">
-                    <LinkedInIcon /> Linkedin
+                    Linkedin
                 </a>
             </div>
         </div>
