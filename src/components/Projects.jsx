@@ -12,7 +12,7 @@ export default function Projects() {
             <div className="p-6 flex flex-col md:grid md:grid-cols-2 gap-6">
                 {projectData.map(project => {
                     return(
-                        <div className="w-4/5 h-96 flex flex-col mx-auto bg-white">
+                        <div className="w-4/5 h-96 flex flex-col mx-auto bg-white" key={project.id}>
                             <img src={project.image} alt="" 
                             className="h-1/2 object-cover"/>
                             <div className="text-black p-4">
