@@ -13,7 +13,7 @@ export default function About() {
                 <div className="w-2/3 lg:w-1/3">
                     <p className="text-md lg:text-lg mb-6">I'm Ivan Matias! I enjoy building web apps, mostly with a React front-end and a NodeJS back-end. I am always striving to learn and develop new skills and become a better web developer. </p>
                     <p className="text-md lg:text-lg mb-6">While my main experience is in web development, I enjoy creating simple UI designs as well!</p>
-                    <a href="https://drive.google.com/file/d/1BzYKhzDv21fBw43KeZSJ1xZiLOODlokh/view?usp=share_link" target="_blank"
+                    <a href="https://drive.google.com/file/d/1rfmBmsJkyMrTTdButBTxyENexCRf_DFi/view?usp=sharing" target="_blank"
                     className="px-24 py-1 flex justify-center lg:w-24 bg-gray-800 rounded-lg hover:bg-gray-700">
                         Resume
                     </a>
